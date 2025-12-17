@@ -1,0 +1,36 @@
+* "username, password"
+* "favorite genres" -> initialized as user creates account, can be changed, will be arraylist
+* "favorite movies" -> top 3 movies, must be 3 (array[3])
+* "liked movie tags" -> will be an arraylist, based on algorithim
+* "watchlist" -> arraylist, set to null
+* "-----" -> separate customers
+test,password
+HORROR,ROMANCE,INDIE
+null
+null
+null
+-----
+ribercc,123456
+HORROR,COMEDY
+null
+null
+null
+-----
+username1,password1
+HORROR,ROMANCE,COMEDY
+null
+null
+null
+-----
+rob,12345678
+DRAMA
+null
+null
+null
+-----
+test3,111
+HORROR,DRAMA
+null
+null
+null
+-----
